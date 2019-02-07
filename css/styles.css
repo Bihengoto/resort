@@ -20,13 +20,16 @@ ul li
   padding-left: 3%;
   padding-left: 3%;
 }
-
+a:hover {
+  color: black;
+}
 img {
   width: 100%;
 }
 
 p {
-  font-size: 5%;
+  font-size: 30px;
+  text-align: center;
   color: yellow;
   background-color: green;
 }
