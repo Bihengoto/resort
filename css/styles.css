@@ -4,6 +4,11 @@ h1 {
   font-style: oblique;
   text-align: center;
 }
+h2 {
+  font-size: 20px;
+  color: brown;
+  text-align: center;
+}
 .navbar
 {
   background-color: green;
